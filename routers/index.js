@@ -1,4 +1,4 @@
-import demoPageRouters from './demoPage';
+import demoPageRouters from './demoPage'; // 引入页面路由
 const routersList = [
   ...demoPageRouters
 ]
